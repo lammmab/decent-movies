@@ -1,0 +1,6 @@
+[submodule "decent-movies-frontend"]
+	path = decent-movies-frontend
+	url = https://github.com/lammmab/decent-movies-frontend
+[submodule "decent-movies-backend"]
+	path = decent-movies-backend
+	url = https://github.com/lammmab/decent-movies-backend
